@@ -60,7 +60,7 @@ I am a **final-year Computer Science and Engineering student** passionate about 
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mohanreddy3&show_icons=true&theme=radical" alt="GitHub Stats" width="49%">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohanreddy3&theme=radical&hide_border=true" alt="GitHub Streak" width="49%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohanreddy3&theme=radical&hide_border=true" alt="GitHub Streak" width="55%">
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohanreddy3&layout=compact&theme=radical" alt="Top Languages">
